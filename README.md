@@ -20,7 +20,7 @@ from lineaccess import line_accesses, labels, match_times
 
 acc = line_accesses(abp_mmhg, fs=500.0, t=sample_times)   # values in mmHg
 labels(acc)        # [("art_line:access", start, recovered), ("art_line:unavailable", start, end), ...]
-match_times(acc, lab_result_times)   # which access each lab result followed, and the lag
+match_times(acc, lab_times)   # which access each lab sample followed, and the lag
 ```
 
 - **Accesses.** `line_events` classifies short windows (1 s by default) as `high`, `low` or `flat` and merges them into events. `line_accesses` groups events less than 90 s apart into one access, meaning one visit to the line.
