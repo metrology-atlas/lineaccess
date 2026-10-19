@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "lineaccess: detection of accesses to invasive pressure lines"
+authors:
+  - family-names: Goodwin
+    given-names: "Andrew J."
+    affiliation: "School of Biomedical Engineering, The University of Sydney"
+    orcid: "https://orcid.org/0000-0002-2776-7039"
+abstract: "Finds accesses to invasive pressure lines (blood draws, flushes, zeroing) in the pressure waveform itself. Dataset-independent; needs only numpy."
+license: MIT
+repository-code: "https://github.com/metrology-atlas/lineaccess"
+keywords:
+  - "arterial line"
+  - "invasive blood pressure"
+  - "artefact detection"
+  - "physiological signals"
+  - "waveforms"

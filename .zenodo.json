@@ -1,0 +1,28 @@
+{
+  "title": "lineaccess: detection of accesses to invasive pressure lines",
+  "upload_type": "software",
+  "description": "Finds accesses to invasive pressure lines (blood draws, flushes, zeroing) in the pressure waveform itself. Dataset-independent; needs only numpy.",
+  "creators": [
+    {
+      "name": "Goodwin, Andrew J.",
+      "affiliation": "School of Biomedical Engineering, The University of Sydney",
+      "orcid": "0000-0002-2776-7039"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "arterial line",
+    "invasive blood pressure",
+    "artefact detection",
+    "physiological signals",
+    "waveforms"
+  ],
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/metrology-atlas/lineaccess",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
