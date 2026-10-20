@@ -1,7 +1,8 @@
 # lineaccess
 
 Finds accesses to invasive pressure lines (blood draws, flushes, zeroing) in the pressure waveform itself.
-MIT licence; needs only numpy. It is separate from physiosync, and neither depends on the other.
+MIT licence; needs only numpy. It is separate from physiosync, and neither depends on the other. Part of the
+[Metrology Atlas](https://vitaldb.metrology-atlas.org) project.
 
 When an arterial (or other pressure) line is accessed, the transducer stops seeing the patient for a while:
 

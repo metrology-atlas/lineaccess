@@ -2,8 +2,8 @@
 site_name = "lineaccess"
 site_description = "Find accesses to invasive pressure lines (blood draws, flushes, zeroing) in the pressure waveform."
 use_directory_urls = false
-repo_url = "https://github.com/meshlab/lineaccess"
-repo_name = "meshlab/lineaccess"
+repo_url = "https://github.com/metrology-atlas/lineaccess"
+repo_name = "metrology-atlas/lineaccess"
 edit_uri = "edit/main/docs/"
 docs_dir = "docs"
 copyright = "© 2026 Andrew J. Goodwin, University of Sydney · MIT licence"

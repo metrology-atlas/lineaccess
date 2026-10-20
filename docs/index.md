@@ -28,7 +28,7 @@ downstream analyses can exclude them, or use them, for example to time blood dra
 ## Install
 
 ```bash
-pip install git+https://github.com/meshlab/lineaccess      # numpy only
+pip install git+https://github.com/metrology-atlas/lineaccess      # numpy only
 ```
 
 MIT licence, © 2026 Andrew J. Goodwin, University of Sydney. lineaccess is independent of physiosync;
