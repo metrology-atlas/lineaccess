@@ -4,4 +4,4 @@
 from .events import LineAccess, LineEvent, LineRules, labels, line_accesses, line_events, match_times
 
 __all__ = ["LineAccess", "LineEvent", "LineRules", "labels", "line_accesses", "line_events", "match_times"]
-__version__ = "0.0.1"
+__version__ = "0.1.0"
