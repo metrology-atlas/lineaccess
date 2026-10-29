@@ -4,6 +4,8 @@ Finds accesses to invasive pressure lines (blood draws, flushes, zeroing) in the
 MIT licence; needs only numpy. It is separate from physiosync, and neither depends on the other. Part of the
 [Metrology Atlas](https://vitaldb.metrology-atlas.org) project.
 
+Paper: Goodwin, A. J. (2026). *The Metrology Atlas: describing recorded physiological data as a measurement system, with VitalDB as a first application*. [arXiv:2610.29001](https://arxiv.org/abs/2610.29001).
+
 When an arterial (or other pressure) line is accessed, the transducer stops seeing the patient for a while:
 
 | What happens | What the waveform shows | Kind |
